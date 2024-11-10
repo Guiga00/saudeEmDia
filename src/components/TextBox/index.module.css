@@ -1,0 +1,19 @@
+.caixa {
+  display: flex;
+  background-color: transparent;
+  color: #CECECE;
+  font-weight: 700;
+  font-size: large;
+  width: 350px;
+  height: 67px;
+  border-radius: 20px;
+  border: 2px solid #CECECE;
+  border-style: none;
+  outline: auto;
+  padding-left: 20px;
+}
+
+.caixa:hover {
+  color: #FFFFFF;
+  background-color: #272727;
+}
